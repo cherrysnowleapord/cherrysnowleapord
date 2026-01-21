@@ -1,6 +1,6 @@
 ## Welcome!👋
 
-**See bottom for contact info**
+**❗See bottom for contact info** <br />
 
 # About me
 Hi! <br />
