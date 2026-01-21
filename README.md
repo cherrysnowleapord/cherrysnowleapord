@@ -3,7 +3,7 @@
 # About me
 Hi! My name is Grant, i'm 19 years old. Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about developing around my skillsets.
 
-## Get to know my developer personality
+### Get to know my developer personality
 - If tasks can and should be automated they will be
 - I always do my own research and intel before requesting help
 - I am mainly self taught
