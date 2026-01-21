@@ -2,7 +2,7 @@
 
 # About me
 Hi! <br />
-My name is Grant, I am 19 years old. <br /> <br />
+My name is Grant, I am 19 years old. <br />
 
 ### Get to know my developer personality
 - If a task should be automated, it will be
