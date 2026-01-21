@@ -1,10 +1,11 @@
-# Welcome👋
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Welcome :)
 
 **See bottom for contact info** <br /> <br />
 
 # About me
-Hello! My name is Grant <br />
-Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge. <br />
+Hi there👋 I'm Grant <br />
+Creative C development. Learning low-level software development. <br />
 
 ### My coding philosophy
 - If a task should be automated, it will be
