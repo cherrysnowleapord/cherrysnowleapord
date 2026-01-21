@@ -4,7 +4,13 @@
 
 # About me
 Hello! <br />
-My name is Grant, I am 19 years old. <br />
+Hi! I’m Grant. I am a passionate 19-year-old developer focused on low-level coding and network security.
+
+### Off-Topic
+- I love finance and entrepreneurship.
+- I love animals (cats and dogs are tied).
+- I'm a gamer, I mostly play FPS or other fast paced games.
+- I'm very family oriented.
 
 ### Get to know my developer personality/philosophy 📝
 - If a task should be automated, it will be
@@ -33,7 +39,7 @@ My name is Grant, I am 19 years old. <br />
 - **Network Security**: Deep protocol analysis, packet inspection, and vulnerability assessment
 
 ### Security & Testing 🔒
-- **Penetration Testing**: Non-environments pentested with burp suite, Kali linux experience
+- **Penetration Testing**: Non-active environments pentested with burp suite, any cli toolchain can be learned quick.
 - **Cryptographic Implementations**: Secure, unique, and versatile algorithm design
 
 ### Performance & Optimization ⏰
@@ -43,8 +49,15 @@ My name is Grant, I am 19 years old. <br />
 ### Misc skills 🧠
 - **File structure management and creation**
 - **Api implementation**: Implementing an API through it's documentation is second hand
-- **Byte level optimizations**: I am phenomenal at deciding how to process binary data effeciently
+- **Byte level optimizations**: I am phenomenal at deciding how to process binary data efficiently
 - **TUI Design**: Great experience with creating TUIs using ASCII
+<br />
+<br />
+
+# Weaknesses
+### Theres always room for improvement. Where does that reside with me?
+- I struggle with working on large solo long-term projects sometimes because I de motivate myself 
+- If a peers feedback isn't an obvious improvement I am more likely to disregard it
 <br />
 
 # Contacts 📞
