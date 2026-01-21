@@ -1,10 +1,10 @@
-# Welcome👋
+# Welcome
 
 **See bottom for contact info** <br /> <br />
 
 # About me
-Hello! My name is Grant <br />
-Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge. <br />
+Hello 👋 I'm Grant <br />
+<br />
 
 ### My coding philosophy
 - If a task should be automated, it will be
@@ -60,6 +60,5 @@ Coding has been my passion and hobby for a long time. I truly enjoy learning new
 **Discord**: @snowygrant <br />
 
 # Final notes 
-
-First of all, Thank you! <br />
-Feel free to reach out to me for any and all questions!
+Thank you for your time and consideration! <br />
+Feel free to reach out to me for any questions.
