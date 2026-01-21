@@ -4,13 +4,14 @@
 
 # About me
 Hello! <br />
-Hi! I’m Grant. I am a hard-working 19-year-old developer focused on low-level coding and network security.
+I’m Grant. I am a hard-working 19-year-old developer focused on low-level coding and network security.
 
 ### Off-Topic
 - I love finance and entrepreneurship.
 - I love animals (cats and dogs are tied).
 - I'm a gamer, I mostly play FPS or other fast paced games.
 - I'm very family oriented.
+<br />
 
 ### Get to know my developer personality/philosophy 📝
 - If a task should be automated, it will be
@@ -21,6 +22,7 @@ Hi! I’m Grant. I am a hard-working 19-year-old developer focused on low-level 
 - I take pride in my work being original
 - I am very adaptable to working with different coding environments and developers.
 - Learning a new coding language doesn't scare me
+<br />
 <br />
 
 # Technical Skills
@@ -44,23 +46,26 @@ Hi! I’m Grant. I am a hard-working 19-year-old developer focused on low-level 
 
 ### Performance & Optimization ⏰
 - **High-Performance Computing**: Optimized algorithms, memory management
-- **System-Level Programming**: Efficient resource utilization, low-level optimization
-
+- **Low-Level Programming mindset**: Efficient resource utilization, low-level optimization
+- **Byte level optimizations**: I am phenomenal at deciding how to process binary data efficiently
+  
 ### Misc skills 🧠
 - **File structure management and creation**
 - **Api implementation**: Implementing an API through it's documentation is second hand
-- **Byte level optimizations**: I am phenomenal at deciding how to process binary data efficiently
 - **TUI Design**: Great experience with creating TUIs using ASCII
 <br />
 <br />
 
 # Weaknesses
 ### Theres always room for improvement. Where does that reside with me?
-- I struggle with working on large solo long-term projects sometimes because I de motivate myself 
+- I have barely any experience actively coding with other people on the same project
+- I Can never maintain a perfect schema on big projects
+- I get burnt out when coding for a long time in one day
+- I sometimes demotivate myself when working on projects because of the sheer scale
 - If a peers feedback isn't an obvious improvement I am more likely to disregard it
 <br />
 
-# Contacts 📞
+# Contacts
 **Discord**: @snowygrant
 
 # Final notes ✅
