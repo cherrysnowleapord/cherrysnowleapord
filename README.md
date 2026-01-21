@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 # About me
 Hi! My name is Grant, i'm 19 years old. Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about developing around my skillsets.
