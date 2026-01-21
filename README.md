@@ -25,7 +25,7 @@ My name is Grant, I am 19 years old. <br />
 - **Python**: On demand throwaway scripts for automation
 - **Bash**: Automation for development testing etc
 - **SQL**: In conjuction with C and GoLang 
-- **HTML/CSS/JS**: Very brief history with web development basics.
+- **HTML/CSS/JS**: Very brief history with web development basics, still aware of syntax and when to use what.
 
 ### Systems & Networking 🤖
 - **Linux Development**: I only have knowledge with userspace development but I plan to learn kernel development
