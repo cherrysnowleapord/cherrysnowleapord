@@ -6,7 +6,7 @@
 Hello! <br />
 My name is Grant, I am 19 years old. <br />
 
-### Get to know my developer personality 📝
+### Get to know my developer personality/philosophy 📝
 - If a task should be automated, it will be
 - If code should be modulated, it will be
 - I only request help or a peer review when I am completely stumped, or have an exhausting mental block
@@ -21,7 +21,7 @@ My name is Grant, I am 19 years old. <br />
 
 ### Programming Languages 🖥️
 - **C**: Experimental networking, experimental cryptography, modular oriented.
-- **Go (Golang)**: Usually used for cool frontends for my C code with unique TUI features
+- **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs I make.
 - **Python**: On demand throwaway scripts for automation
 - **Bash**: Automation for development testing etc
 - **SQL**: In conjuction with C and GoLang 
@@ -34,20 +34,20 @@ My name is Grant, I am 19 years old. <br />
 
 ### Security & Testing 🔒
 - **Penetration Testing**: Non-environments pentested with burp suite, Kali linux experience
-- **Cryptographic Implementations**: Secure and versatile algorithm design
+- **Cryptographic Implementations**: Secure, unique, and versatile algorithm design
 
 ### Performance & Optimization ⏰
 - **High-Performance Computing**: Optimized algorithms, memory management
 - **System-Level Programming**: Efficient resource utilization, low-level optimization
 
-### Development Practices 🧠
-- **Secure Coding**: Buffer overflow prevention, input validation, threat modeling
-- **Code Documentation**: Technical writing, API documentation, README creation
-- **Version Control**: Git workflows, collaborative development
-- **Versatility and Portability**: Code is centered on being versatile and portable across platforms
+### Misc skills 🧠
+- **File structure management and creation**
+- **Api implementation**: Implementing an API through it's documentation is second hand
+- **Byte level optimizations**: I am phenomenal at deciding how to process binary data effeciently
+- **TUI Design**: Great experience with creating TUIs using ASCII
 <br />
 
-# Contacts
+# Contacts 📞
 **Discord**: @snowygrant
 
 # Final notes ✅
