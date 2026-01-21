@@ -3,6 +3,7 @@
 # About me
 Hi! <br />
 My name is Grant, I am 19 years old. <br />
+Coding and being creative through coding has been my personal passion as soon as I started it. It is very important and special to me.
 Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about developing around my skillsets.
 <br />
 ### Get to know my developer personality
@@ -10,7 +11,7 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 - If code should be modulated, it will be
 - I always do my own research and intel before requesting help
 - I am mainly self taught
-- I can take an idea and put it into code
+- I can take an idea and put it into code as long as its understood
 - I take pride in my work being original
 - I am very adaptable to different coding environments and people.
 <br />
@@ -18,24 +19,24 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 # Technical Skills
 
 ## Programming Languages
-- **C**: Systems programming, Linux development, embedded systems
-- **Go (Golang)**: Concurrent programming, web services, CLI tools
-- **Python**: Scripting, automation, security tools, data processing
-- **SQL**: Database design, queries, optimization
+- **C**: Experimental networking, experimental cryptography, modular oriented.
+- **Go (Golang)**: Usually used for cool frontends for my C code with unique TUI features
+- **Python**: On demand throwaway scripts for automation
+- **Bash**: Automation for development testing etc
+- **SQL**: In conjuction with C and GoLang 
+- **HTML/CSS/JS**: Very brief history with web development basics.
 
 ## Systems & Networking
-- **Linux Development**: System programming, kernel interfaces, POSIX compliance
-- **Low-Level Networking**: Layer 4 (Transport) and Layer 7 (Application) protocols
-- **Network Security**: Protocol analysis, packet inspection, vulnerability assessment
+- **Linux Development**: I only have knowledge with userspace development but plan to expand
+- **Low-Level Networking**: Layer 4 and Layer 7 protocols
+- **Network Security**: Deep protocol analysis, packet inspection, and vulnerability assessment
 
 ## Security & Testing
-- **Penetration Testing**: Vulnerability assessment, ethical hacking, security auditing
-- **Cryptographic Implementations**: Hash functions, HMAC, secure algorithm design
-- **Security Tooling**: Custom security utilities, network scanners, analysis frameworks
+- **Penetration Testing**: Non-environments pentested with burp suite, Kali linux experience
+- **Cryptographic Implementations**: Secure and versatile algorithm design
 
 ## Performance & Optimization
 - **High-Performance Computing**: Optimized algorithms, memory management
-- **Benchmarking**: Performance analysis, throughput measurement, profiling
 - **System-Level Programming**: Efficient resource utilization, low-level optimization
 
 ## Development Practices
@@ -43,3 +44,8 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 - **Code Documentation**: Technical writing, API documentation, README creation
 - **Version Control**: Git workflows, collaborative development
 
+<br />
+# Final notes
+
+First of all, Thank you! <br />
+Feel free to reach out to me for any and all questions!
