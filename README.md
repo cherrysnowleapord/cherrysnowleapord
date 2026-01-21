@@ -3,21 +3,14 @@
 **See bottom for contact info** <br /> <br />
 
 # About me
-Hello! <br />
-I’m Grant. I am a hard-working 19-year-old developer focused on low-level coding and network security.
-
-### Off-Topic
-- I love finance and entrepreneurship.
-- I love music, it is a big part of who I am.
-- I love animals (cats and dogs are tied).
-- I'm a gamer, I mostly play FPS or other fast paced games.
-- I'm very family oriented.
+Hello! My name is Grant <br />
+Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge.
+Please feel free to read my portfolio to learn about me.
 
 ### Get to know my developer personality/philosophy 📝
 - If a task should be automated, it will be
 - If code should be modulated, it will be
 - I only request help or a peer review when I am completely stumped, or have an exhausting mental block
-- I am mainly self taught
 - I can take an idea and put it into code as long as its understood
 - I take pride in my work being original
 - I am very adaptable to working with different coding environments and developers.
@@ -27,21 +20,21 @@ I’m Grant. I am a hard-working 19-year-old developer focused on low-level codi
 
 # Technical Skills
 
-### Programming Languages 🖥️
-- **C**: Experimental networking, experimental cryptography, modular oriented.
-- **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs I make.
+### Programming Languages and What I use them for 🖥️
+- **C**: Experimental networking, experimental cryptography, modular oriented
+- **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs
 - **Python**: On demand throwaway scripts for automation
 - **Bash**: Automation for development testing etc
 - **SQL**: In conjuction with C and GoLang 
-- **HTML/CSS/JS**: Very brief history with web development basics, still aware of syntax and when to use what.
+- **HTML/CSS/JS**: Very brief history with web development basics, and beginner react development with a node js environment
 
 ### Systems & Networking 🤖
-- **Linux Development**: I only have knowledge with userspace development but I plan to learn kernel development
-- **Low-Level Networking**: Working with and creating Layer 4 and Layer 7 protocols
-- **Network Security**: Deep protocol analysis, packet inspection, and vulnerability assessment
+- **Linux Development**: Currently only skilled with userspace development
+- **Low-Level Networking**: Using, creating, and structuring  L3-L4 and L7 protocols
+- **Network Security**: Bit by bit protocol analysis, packet inspection, and vulnerability assessment
 
 ### Security & Testing 🔒
-- **Penetration Testing**: Non-active environments pentested with burp suite, any cli toolchain can be learned quick.
+- **Penetration Testing**: Non-active environments pentested with burp suite, any toolchain can be learned quick.
 - **Cryptographic Implementations**: Secure, unique, and versatile algorithm design
 
 ### Performance & Optimization ⏰
@@ -50,7 +43,8 @@ I’m Grant. I am a hard-working 19-year-old developer focused on low-level codi
 - **Byte level optimizations**: I am phenomenal at deciding how to process binary data efficiently
   
 ### Misc skills 🧠
-- **File structure management and creation**
+- **Improvising logic algorithms**
+- **Project file structure management and creation**
 - **Api implementation**: Implementing an API through it's documentation is second hand
 - **TUI Design**: Great experience with creating TUIs using ASCII
 <br />
