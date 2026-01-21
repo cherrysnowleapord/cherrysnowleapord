@@ -1,9 +1,9 @@
-# Welcome!👋
+# Welcome👋
 
 **See bottom for contact info** <br /> <br />
 
 # About me
-Hi! <br />
+Hello! <br />
 My name is Grant, I am 19 years old. <br />
 
 ### Get to know my developer personality 📝
