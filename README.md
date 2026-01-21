@@ -19,7 +19,7 @@ My name is Grant, I am 19 years old. <br />
 
 # Technical Skills
 
-## Programming Languages 🖥️
+### Programming Languages 🖥️
 - **C**: Experimental networking, experimental cryptography, modular oriented.
 - **Go (Golang)**: Usually used for cool frontends for my C code with unique TUI features
 - **Python**: On demand throwaway scripts for automation
@@ -27,20 +27,20 @@ My name is Grant, I am 19 years old. <br />
 - **SQL**: In conjuction with C and GoLang 
 - **HTML/CSS/JS**: Very brief history with web development basics.
 
-## Systems & Networking 🤖
+### Systems & Networking 🤖
 - **Linux Development**: I only have knowledge with userspace development but I plan to learn kernel development
 - **Low-Level Networking**: Working with and creating Layer 4 and Layer 7 protocols
 - **Network Security**: Deep protocol analysis, packet inspection, and vulnerability assessment
 
-## Security & Testing 🔒
+### Security & Testing 🔒
 - **Penetration Testing**: Non-environments pentested with burp suite, Kali linux experience
 - **Cryptographic Implementations**: Secure and versatile algorithm design
 
-## Performance & Optimization ⏰
+### Performance & Optimization ⏰
 - **High-Performance Computing**: Optimized algorithms, memory management
 - **System-Level Programming**: Efficient resource utilization, low-level optimization
 
-## Development Practices 🧠
+### Development Practices 🧠
 - **Secure Coding**: Buffer overflow prevention, input validation, threat modeling
 - **Code Documentation**: Technical writing, API documentation, README creation
 - **Version Control**: Git workflows, collaborative development
