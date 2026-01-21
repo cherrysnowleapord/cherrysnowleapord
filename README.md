@@ -1,8 +1,8 @@
 ## Welcome!
 
 # About me
-Hi! 
-My name is Grant, I am 19 years old. 
+Hi! <br />
+My name is Grant, I am 19 years old. <br />
 Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about developing around my skillsets.
 <br />
 ### Get to know my developer personality
@@ -10,6 +10,7 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 - If code should be modulated, it will be
 - I always do my own research and intel before requesting help
 - I am mainly self taught
+- I can take an idea and put it into code
 - I take pride in my work being original
 - I am very adaptable to different coding environments and people.
 <br />
