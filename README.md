@@ -5,15 +5,13 @@
 # About me
 Hello! My name is Grant <br />
 Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge. <br />
-Please feel free to read my portfolio to learn about me.
 
-### Get to know my developer personality/philosophy 📝
+### My coding philosophy 📝
 - If a task should be automated, it will be
 - If code should be modulated, it will be
 - I only request help or a peer review when I am completely stumped, or have an exhausting mental block
 - I can take an idea and put it into code as long as its understood
 - I take pride in my work being original
-- I am very adaptable to working with different coding environments and developers.
 - Learning a new coding language doesn't scare me
 <br />
 <br />
