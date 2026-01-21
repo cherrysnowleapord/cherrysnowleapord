@@ -4,7 +4,7 @@
 
 # About me
 Hello! <br />
-Hi! I’m Grant. I am a passionate 19-year-old developer focused on low-level coding and network security.
+Hi! I’m Grant. I am a hard-working 19-year-old developer focused on low-level coding and network security.
 
 ### Off-Topic
 - I love finance and entrepreneurship.
