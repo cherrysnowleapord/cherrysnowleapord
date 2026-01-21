@@ -12,6 +12,7 @@ My name is Grant, I am 19 years old. <br />
 - I can take an idea and put it into code as long as its understood
 - I take pride in my work being original
 - I am very adaptable to different coding environments and people.
+- Learning a new language doesn't scare me
 <br />
 
 # Technical Skills
@@ -26,7 +27,7 @@ My name is Grant, I am 19 years old. <br />
 
 ## Systems & Networking
 - **Linux Development**: I only have knowledge with userspace development but I plan to learn kernel development
-- **Low-Level Networking**: Layer 4 and Layer 7 protocols
+- **Low-Level Networking**: Working with and creating Layer 4 and Layer 7 protocols
 - **Network Security**: Deep protocol analysis, packet inspection, and vulnerability assessment
 
 ## Security & Testing
