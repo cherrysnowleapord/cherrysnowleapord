@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**cherrysnowleapord/cherrysnowleapord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+Hi! My name is Grant, i'm 19 years old. Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about developing around my skillsets.
 
-Here are some ideas to get you started:
+# Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- **C**: Systems programming, Linux development, embedded systems
+- **Go (Golang)**: Concurrent programming, web services, CLI tools
+- **Python**: Scripting, automation, security tools, data processing
+- **SQL**: Database design, queries, optimization
+
+## Systems & Networking
+- **Linux Development**: System programming, kernel interfaces, POSIX compliance
+- **Low-Level Networking**: Layer 4 (Transport) and Layer 7 (Application) protocols
+- **Network Security**: Protocol analysis, packet inspection, vulnerability assessment
+
+## Security & Testing
+- **Penetration Testing**: Vulnerability assessment, ethical hacking, security auditing
+- **Cryptographic Implementations**: Hash functions, HMAC, secure algorithm design
+- **Security Tooling**: Custom security utilities, network scanners, analysis frameworks
+
+## Performance & Optimization
+- **High-Performance Computing**: Optimized algorithms, memory management
+- **Benchmarking**: Performance analysis, throughput measurement, profiling
+- **System-Level Programming**: Efficient resource utilization, low-level optimization
+
+## Development Practices
+- **Secure Coding**: Buffer overflow prevention, input validation, threat modeling
+- **Code Documentation**: Technical writing, API documentation, README creation
+- **Version Control**: Git workflows, collaborative development
+
