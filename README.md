@@ -45,6 +45,9 @@ My name is Grant, I am 19 years old. <br />
 - **Versatility and Portability**: Code is centered on being versatile and portable across platforms
 <br />
 
+# Contacts
+**Discord**: @snowygrant
+
 # Final notes ✅
 
 First of all, Thank you! <br />
