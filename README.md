@@ -18,13 +18,12 @@ Coding has been my passion and hobby for a long time. I truly enjoy learning new
 
 # My skillset ✅
 
-### Programming Languages and What I use them for 🖥️
-- **C**: Experimental networking, experimental cryptography, modular oriented
+### Programming Languages 🖥️
+- **C**: Anything and everything low-level, network and protocol development, experimental cryptography, logic algorithms
 - **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs
 - **Python**: On demand throwaway scripts for automation
-- **Bash**: Automation for development testing etc
 - **SQL**: In conjuction with C and GoLang 
-- **HTML/CSS/JS**: Very brief history with web development basics, and beginner react development with a node js environment
+- **HTML/CSS/JS**: Very brief history with web development and design, and beginner react development with a node js environment
 
 ### Systems & Networking 🤖
 - **Linux Development**: Currently only skilled with userspace development
