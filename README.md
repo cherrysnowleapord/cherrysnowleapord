@@ -1,5 +1,7 @@
 ## Welcome!👋
 
+**See bottom for contact info**
+
 # About me
 Hi! <br />
 My name is Grant, I am 19 years old. <br />
