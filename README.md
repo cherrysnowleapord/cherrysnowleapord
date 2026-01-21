@@ -13,7 +13,6 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 - I take pride in my work being original
 - I am very adaptable to different coding environments and people.
 <br />
-<br />
 
 # Technical Skills
 
