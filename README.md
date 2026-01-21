@@ -4,7 +4,7 @@
 
 # About me
 Hello! My name is Grant <br />
-Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge.
+Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge. <br />
 Please feel free to read my portfolio to learn about me.
 
 ### Get to know my developer personality/philosophy 📝
