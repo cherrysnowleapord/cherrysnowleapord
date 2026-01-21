@@ -3,9 +3,11 @@
 # About me
 Hi! <br />
 My name is Grant, I am 19 years old. <br /> <br />
+
 Coding and being creative through coding has been my personal passion as soon as I started it. It is very important and special to me.
 Around 6 years ago I started getting very interested in computer networking. Since then I have been learning anything and everything I can about coding with my skillsets.
 <br />
+
 ### Get to know my developer personality
 - If a task should be automated, it will be
 - If code should be modulated, it will be
@@ -44,8 +46,8 @@ Around 6 years ago I started getting very interested in computer networking. Sin
 - **Code Documentation**: Technical writing, API documentation, README creation
 - **Version Control**: Git workflows, collaborative development
 - **Versatility and Portability**: Code is centered on being versatile and portable across platforms
-
 <br />
+
 # Final notes
 
 First of all, Thank you! <br />
