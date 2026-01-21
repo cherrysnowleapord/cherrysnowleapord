@@ -8,6 +8,7 @@ I’m Grant. I am a hard-working 19-year-old developer focused on low-level codi
 
 ### Off-Topic
 - I love finance and entrepreneurship.
+- I love music, it is a big part of who I am.
 - I love animals (cats and dogs are tied).
 - I'm a gamer, I mostly play FPS or other fast paced games.
 - I'm very family oriented.
