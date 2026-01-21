@@ -11,7 +11,6 @@ I’m Grant. I am a hard-working 19-year-old developer focused on low-level codi
 - I love animals (cats and dogs are tied).
 - I'm a gamer, I mostly play FPS or other fast paced games.
 - I'm very family oriented.
-<br />
 
 ### Get to know my developer personality/philosophy 📝
 - If a task should be automated, it will be
