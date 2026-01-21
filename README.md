@@ -6,7 +6,7 @@
 Hello! My name is Grant <br />
 Coding has been my passion and hobby for a long time. I truly enjoy learning new things then instantly applying that knowledge. <br />
 
-### My coding philosophy 📝
+### My coding philosophy
 - If a task should be automated, it will be
 - If code should be modulated, it will be
 - I only request help or a peer review when I am completely stumped, or have an exhausting mental block
@@ -16,7 +16,7 @@ Coding has been my passion and hobby for a long time. I truly enjoy learning new
 <br />
 <br />
 
-# Technical Skills
+# My skillset ✅
 
 ### Programming Languages and What I use them for 🖥️
 - **C**: Experimental networking, experimental cryptography, modular oriented
@@ -58,9 +58,9 @@ Coding has been my passion and hobby for a long time. I truly enjoy learning new
 <br />
 
 # Contacts
-**Discord**: @snowygrant
+**Discord**: @snowygrant <br />
 
-# Final notes ✅
+# Final notes 
 
 First of all, Thank you! <br />
 Feel free to reach out to me for any and all questions!
