@@ -11,7 +11,7 @@ My name is Grant, I am 19 years old. <br />
 - I am mainly self taught
 - I can take an idea and put it into code as long as its understood
 - I take pride in my work being original
-- I am very adaptable to different coding environments and people.
+- I am very adaptable to working with different coding environments and developers.
 - Learning a new coding language doesn't scare me
 <br />
 
