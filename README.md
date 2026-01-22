@@ -4,21 +4,13 @@
 
 # About me
 Hello 👋 I'm Grant <br />
-<br />
-
-### My coding philosophy
-- If a task should be automated, it will be
-- If code should be modulated, it will be
-- I only request help or a peer review when I am completely stumped, or have an exhausting mental block
-- I can take an idea and put it into code as long as its understood
-- I take pride in my work being original
-- Learning a new coding language doesn't scare me
-<br />
+I develop full scale L3-L7 network structures for Linux. Currently I have been studying Cryptography and network to OS versatility for developing custom protocols.
 <br />
 
 # My skillset ✅
 
 ### Programming Languages 🖥️
+- **Lang**: My use for it
 - **C**: Anything and everything low-level, network and protocol development, experimental cryptography, logic algorithms
 - **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs
 - **Python**: On demand throwaway scripts for automation
@@ -46,6 +38,14 @@ Hello 👋 I'm Grant <br />
 - **TUI Design**: Great experience with creating TUIs using ASCII
 <br />
 <br />
+
+# 💡 My Development Principles
+
+* **Automation first** – Any repeatable task gets a script or CI pipeline.  
+* **Modularity matters** – I keep libraries loosely coupled and well‑documented.  
+* **Peer review is a safety net** – I only skip it when I truly hit a dead‑end and have a clear fallback plan.  
+* **Originality with scrutiny** – I design algorithms from scratch, then benchmark against standards.  
+* **Learn‑by‑doing** – I pick a language, build a tiny project, and iterate.
 
 # Weaknesses
 ### Theres always room for improvement. Where does that reside with me?
