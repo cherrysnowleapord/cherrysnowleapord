@@ -1,21 +1,22 @@
 # Welcome
 
-**See bottom for contact info** <br /> <br />
+## Contacts
+@snowygrant
 
-# About me
+### About me
 Hello 👋 I'm Grant <br />
-I develop full scale L3-L7 network structures for Linux. Currently I have been studying Cryptography and network to OS versatility for developing custom protocols.
-<br />
+I develop full scale L3-L7 network structures for Linux userspace. Recently I have been religiously studying Cryptography and network to OS versatility. I have been working on a solo project called "GoNetis" it utilizes my own crypto algorithms, network structure, and modules.<br />
 
-# My skillset ✅
+# Core skillset ✅
+
+**Skill**: Personal background
 
 ### Programming Languages 🖥️
-- **Lang**: My use for it
 - **C**: Anything and everything low-level, network and protocol development, experimental cryptography, logic algorithms
-- **Go (Golang)**: Usually used for more advanced and versatile frontends for the C APIs
+- **Go (Golang)**: Used for easily adaptable frontends for C APIs developed
 - **Python**: On demand throwaway scripts for automation
-- **SQL**: In conjuction with C and GoLang 
-- **HTML/CSS/JS**: Very brief history with web development and design, and beginner react development with a node js environment
+- **SQL**: Database for C and GoLang 
+- **HTML/CSS/JS**: Intermediate experience with HTML and CSS, beginner experience with JS
 
 ### Systems & Networking 🤖
 - **Linux Development**: Currently only skilled with userspace development
@@ -55,9 +56,6 @@ I develop full scale L3-L7 network structures for Linux. Currently I have been s
 - I sometimes demotivate myself when working on projects because of the sheer scale
 - If a peers feedback isn't an obvious improvement I am more likely to disregard it
 <br />
-
-# Contacts
-**Discord**: @snowygrant <br />
 
 # Final notes 
 Thank you for your time and consideration! <br />
