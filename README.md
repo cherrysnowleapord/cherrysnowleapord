@@ -20,7 +20,7 @@ I develop full scale L3-L7 network structures for Linux userspace. Recently I ha
 
 ### Systems & Networking 🤖
 - **Linux Development**: Currently only skilled with userspace development
-- **Low-Level Networking**: Using, creating, and structuring  L3-L4 and L7 protocols
+- **Low-Level Networking**: Using, creating, and structuring L3-L7 protocols
 - **Network Security**: Bit by bit protocol analysis, packet inspection, and vulnerability assessment
 
 ### Security & Testing 🔒
