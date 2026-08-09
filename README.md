@@ -1,7 +1,7 @@
 # Welcome
 
 ## Contacts
-Email: grantwonnell@outlook.com
+Email: grantwonnell@outlook.com<br />
 Discord @snowygrant
 
 ### About me
