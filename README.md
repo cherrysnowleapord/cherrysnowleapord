@@ -1,7 +1,8 @@
 # Welcome
 
 ## Contacts
-@snowygrant
+Email: grantwonnell@outlook.com
+Discord @snowygrant
 
 ### About me
 Hello 👋 I'm Grant <br />
